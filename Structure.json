@@ -1,0 +1,42 @@
+{
+  "Starttext": "das ist eine Beschreibung von mir!!",
+  "Navigation": [
+    {
+      "title": "Name",
+      "link": "/link"
+    },
+    {
+      "title": "Impressum",
+      "link": "/impressum"
+    },
+    {
+      "title": "String",
+      "link": "/link"
+    }],
+  "Projects": [
+    {
+      "title": "String",
+      "titleImg": "/Images/bild.png",
+      "description": "String",
+      "images": [
+        "/Images/bild.png",
+        "/Images/bild.png",
+        "/Images/bild.png",
+        "/Images/bild.png",
+        "/Images/bild.png"
+      ]
+    },
+    {
+      "title": "String",
+      "titleImg": "/Images/bild.png",
+      "description": "String",
+      "images": [
+        "/Images/bild.png",
+        "/Images/bild.png",
+        "/Images/bild.png",
+        "/Images/bild.png",
+        "/Images/bild.png"
+      ]
+    }
+  ]
+}
