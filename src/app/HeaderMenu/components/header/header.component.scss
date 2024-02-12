@@ -1,0 +1,15 @@
+#header {
+  display: flex;
+  justify-content: space-around;
+  align-items: start;
+  width: 80%;
+  min-height: 3rem;
+  background-color: white;
+  margin: 0 auto;
+}
+
+#info-text {
+  width: 45%;
+  display: flex;
+  justify-content: center;
+}

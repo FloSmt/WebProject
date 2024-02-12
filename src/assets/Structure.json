@@ -1,0 +1,32 @@
+{
+  "Starttext": "das ist eine Beschreibung von mir!!",
+  "SeitenTitel": "Webseitenname",
+  "Navigation": [
+    {
+      "title": "Name",
+      "link": "/"
+    },
+    {
+      "title": "Impressum",
+      "link": "/impressum"
+    },
+    {
+      "title": "String",
+      "link": "/link"
+    }],
+  "Projects": [
+    {
+      "title": "Das Projekt für die Universität",
+      "titleImg": "https://picsum.photos/2000/2010",
+      "description": "Das ist ein sehr langer Text mit vielen Wörtern und auch ein paar Satzzeichen, welche nicht so einfach zu lesen sind, da es einfach darum geht viel Platz zu füllen, ohne dass es unrealistisch aussieht.",
+      "images": [
+        "assets/Images/bild.png",
+        "https://picsum.photos/2000/2010"
+      ]
+    },    {
+      "title": "Das Projekt für die Universität1",
+      "titleImg": "https://picsum.photos/1920/1080",
+      "description": "String0",
+      "images": []
+    }]
+}
